@@ -11,15 +11,15 @@ Trong quá trình tham gia chương trình **First Cloud AI Journey**, kiến th
 
 Kết quả học tập được tự đánh giá theo các chuẩn đầu ra như sau:
 
-| CLO | Mục tiêu | Kết quả đạt được |
+| CLO | Mục tiêu | Mức điểm tự đánh giá (0-4) | Kết quả đạt được |
 |---|---|---|
-| **CLO1 – Áp dụng kiến thức chuyên môn** | Vận dụng kiến thức đã học để xây dựng ứng dụng thực tế | Bước đầu sử dụng được **Amazon S3**, **AWS Lambda**, **API Gateway**, **Cognito** và **DynamoDB** để triển khai CloudManga. |
-| **CLO2 – Phân tích và giải quyết vấn đề** | Nhận biết và xử lý những vấn đề phát sinh | Đã tiếp cận cách kiểm tra lỗi **CORS**, quyền **IAM** và kết nối API. Tuy nhiên, khả năng tự xác định nguyên nhân và xử lý lỗi phức tạp còn hạn chế. |
-| **CLO3 – Giao tiếp, báo cáo, thuyết trình** | Ghi chép và trình bày quá trình thực tập | Xây dựng nhật ký công việc, sơ đồ kiến trúc và tài liệu Workshop. |
-| **CLO4 – Đạo đức và an toàn nghề nghiệp** | Tuân thủ nguyên tắc bảo mật và quản lý tài nguyên | Bước đầu thực hiện phân quyền **IAM**, sử dụng **Cognito** để xác thực và giữ **S3 Bucket** ở chế độ riêng tư. Cần tìm hiểu sâu hơn về bảo mật AWS. |
-| **CLO5 – Làm việc nhóm, phối hợp** | Phối hợp và tiếp nhận góp ý trong công việc | Có cơ hội tiếp cận môi trường học tập và thực hành AWS. Dự án chủ yếu được thực hiện cá nhân nên kinh nghiệm phối hợp nhóm còn ít. |
-| **CLO6 – Sử dụng công cụ kỹ thuật** | Sử dụng các công cụ hỗ trợ triển khai hệ thống | Sử dụng được **AWS Management Console**, **Visual Studio Code**, **GitHub**. Chưa thành thạo **AWS CLI** và các công cụ tự động hóa. |
-| **CLO7 – Tự nhận xét và phát triển nghề nghiệp** | Nhận diện hạn chế và xây dựng định hướng học tập | Xác định được những kiến thức còn thiếu về **Cloud Computing**, bảo mật và triển khai ứng dụng; có định hướng tiếp tục học tập và thực hành. |
+| **CLO1 – Áp dụng kiến thức chuyên môn** | Vận dụng kiến thức đã học để xây dựng ứng dụng thực tế | 2 | Bước đầu sử dụng được **Amazon S3**, **AWS Lambda**, **API Gateway**, **Cognito** và **DynamoDB** để triển khai CloudManga. |
+| **CLO2 – Phân tích và giải quyết vấn đề** | Nhận biết và xử lý những vấn đề phát sinh | 2 | Đã tiếp cận cách kiểm tra lỗi **CORS**, quyền **IAM** và kết nối API. Tuy nhiên, khả năng tự xác định nguyên nhân và xử lý lỗi phức tạp còn hạn chế. |
+| **CLO3 – Giao tiếp, báo cáo, thuyết trình** | Ghi chép và trình bày quá trình thực tập | 3 | Xây dựng nhật ký công việc, sơ đồ kiến trúc và tài liệu Workshop. |
+| **CLO4 – Đạo đức và an toàn nghề nghiệp** | Tuân thủ nguyên tắc bảo mật và quản lý tài nguyên | 3 | Bước đầu thực hiện phân quyền **IAM**, sử dụng **Cognito** để xác thực và giữ **S3 Bucket** ở chế độ riêng tư. Cần tìm hiểu sâu hơn về bảo mật AWS. |
+| **CLO5 – Làm việc nhóm, phối hợp** | Phối hợp và tiếp nhận góp ý trong công việc | 2 | Có cơ hội tiếp cận môi trường học tập và thực hành AWS. Dự án chủ yếu được thực hiện cá nhân nên kinh nghiệm phối hợp nhóm còn ít. |
+| **CLO6 – Sử dụng công cụ kỹ thuật** | Sử dụng các công cụ hỗ trợ triển khai hệ thống | 3 | Sử dụng được **AWS Management Console**, **Visual Studio Code**, **GitHub**. Chưa thành thạo **AWS CLI** và các công cụ tự động hóa. |
+| **CLO7 – Tự nhận xét và phát triển nghề nghiệp** | Nhận diện hạn chế và xây dựng định hướng học tập | 3 | Xác định được những kiến thức còn thiếu về **Cloud Computing**, bảo mật và triển khai ứng dụng; có định hướng tiếp tục học tập và thực hành. |
 
 ## Điểm mạnh
 
